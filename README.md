@@ -1,6 +1,6 @@
 ****# Hank-del-on-
 
-<p>Welcome to my page! </br> I'm Henrik, Fullstack developer from <img src="[https:/-png.flaticon.com/512/197/197560.png](https://icon-icons.com/icon/norway-flag/228686)" width="13"/> <b>Norway</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Norway</b>. </p>
+<p>Welcome to my page! </br> I'm Henrik, Fullstack developer from <img src="https:/-png.flaticon.com/512/197/197560.png" width="13"/> <b>Norway</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Norway</b>. </p>
 <h3>Things I code with and have coded with</h3>
 <p>
 
