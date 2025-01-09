@@ -13,7 +13,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/-Css-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="TypeScript & javascript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+<img alt="Css" src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
 
   
 <html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
